@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A31B7BC12389E1C400B625F7 /* First file.swift in Sources */ = {isa = PBXBuildFile; fileRef = A31B7BC02389E1C400B625F7 /* First file.swift */; };
+		A31B7BC32389E20500B625F7 /* second.swift in Sources */ = {isa = PBXBuildFile; fileRef = A31B7BC22389E20500B625F7 /* second.swift */; };
 		A3370F892210B1940028F6D6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3370F882210B1940028F6D6 /* AppDelegate.swift */; };
 		A3370F8B2210B1940028F6D6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3370F8A2210B1940028F6D6 /* ViewController.swift */; };
 		A3370F8E2210B1940028F6D6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3370F8C2210B1940028F6D6 /* Main.storyboard */; };
@@ -37,6 +38,7 @@
 
 /* Begin PBXFileReference section */
 		A31B7BC02389E1C400B625F7 /* First file.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "First file.swift"; sourceTree = "<group>"; };
+		A31B7BC22389E20500B625F7 /* second.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = second.swift; sourceTree = "<group>"; };
 		A3370F852210B1940028F6D6 /* MusicaSampleApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MusicaSampleApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3370F882210B1940028F6D6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A3370F8A2210B1940028F6D6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 		A3370F7C2210B1940028F6D6 = {
 			isa = PBXGroup;
 			children = (
+				A31B7BC22389E20500B625F7 /* second.swift */,
 				A31B7BC02389E1C400B625F7 /* First file.swift */,
 				A3370F872210B1940028F6D6 /* MusicaSampleApp */,
 				A3370F9F2210B19A0028F6D6 /* MusicaSampleAppTests */,
@@ -264,6 +267,7 @@
 			files = (
 				A3370F912210B1940028F6D6 /* MusicaSampleApp.xcdatamodeld in Sources */,
 				A3370F8B2210B1940028F6D6 /* ViewController.swift in Sources */,
+				A31B7BC32389E20500B625F7 /* second.swift in Sources */,
 				A3370F892210B1940028F6D6 /* AppDelegate.swift in Sources */,
 				A31B7BC12389E1C400B625F7 /* First file.swift in Sources */,
 			);
